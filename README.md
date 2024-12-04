@@ -42,7 +42,7 @@ I'm a **Full Stack Developer** with a passion for crafting efficient, scalable, 
 
 ## 📫 Let's Connect
 
-- **LinkedIn**: [linkedin.com/in/faizank](#linkedin.com/in/faizank)
+- **LinkedIn**: [linkedin.com/in/faizank](https://linkedin.com/in/faizank)
 
 ---
 
