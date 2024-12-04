@@ -29,7 +29,6 @@ I'm a **Full Stack Developer** with a passion for crafting efficient, scalable, 
 
 ## 📈 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizanahmad&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizanahmad&layout=compact&theme=radical)
 
 ---
