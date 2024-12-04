@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm a **Full Stack Developer** with a passion for crafting efficient, scalable, and robust applications. With expertise in both backend and frontend technologies, I bring ideas to life with clean code and innovative solutions.
+I'm a **Full Stack Engineer** with a passion for crafting efficient, scalable, and robust applications. With expertise in both backend and frontend technologies, I bring ideas to life with clean code and innovative solutions.
 
 ---
 
